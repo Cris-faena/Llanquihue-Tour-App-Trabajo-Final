@@ -105,7 +105,7 @@ Contiene la clase **Main**, encargada de ejecutar la aplicación, integrar los c
 Incluye la clase **ValidadorEmail**, responsable de validar las direcciones de correo electrónico ingresadas.
 
 ---
-### 🛠️ Ejemplo de uso de la aplicación.
+### 🛠️ Ejemplo de uso de la aplicación. Convierte un archivo.txt a una lista<String>:
 ```java
 // Ejemplo:
 public class Main 
@@ -176,7 +176,7 @@ public class Main
 
 ### 💾Instrucciones para ejecutar el proyecto
 1. Clona el repositorio desde GitHub:
-   https://github.com/Cris-faena/LlanquihueTourAppHerenciaPoli.git
+   https://github.com/Cris-faena/Llanquihue-Tour-App-Trabajo-Final.git
 3. Abre el proyecto en "IntelliJ IDEA".
 4. Ejecuta el archivo Main.Java. desde el paquete "ui".
 5. Sigue las instrucciones en consola.
