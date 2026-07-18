@@ -9,7 +9,7 @@ public class EmpleadoAdministrativo extends Persona
     private String puestoAdministrativo;    // Atributo que representa el puesto de trabajo.
 
     // Se implementa un constructor con parámetros. Hereda parámetros de la superclase "Persona".
-    public EmpleadoAdministrativo(String nombre, Rut rut, Direccion direccion, Email email, double sueldo, String puestoAdministrativo)
+    public EmpleadoAdministrativo(String nombre, Rut rut, Direccion direccion, Email email, double sueldoAdministrativo, String puestoAdministrativo)
     {
         super(nombre, rut, direccion, email);
         this.sueldoAdministrativo = sueldoAdministrativo;
@@ -50,10 +50,7 @@ public class EmpleadoAdministrativo extends Persona
      * Método para modificar el sueldo del empleado administrativo.
      * @param sueldoAdministrativo nuevo sueldo que se quiere asignar al objeto
      */
-    public void setSueldoAdministrativo(double sueldoAdministrativo)
-    {
-        this.sueldoAdministrativo = sueldoAdministrativo;
-    }
+    public void setSueldoAdministrativo(double sueldoAdministrativo) {this.sueldoAdministrativo = sueldoAdministrativo;}
 
     /**
      * Método para modificar el nombre del puesto administrativo.

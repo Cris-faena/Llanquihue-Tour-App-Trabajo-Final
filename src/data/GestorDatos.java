@@ -207,7 +207,7 @@ public class GestorDatos
                 String region = partes[4];
                 // Se debe crear un objeto "Email1" con el String "email":
                 String email = partes[5];
-                double sueldo = Double.parseDouble(partes[6]);
+                double sueldoA = Double.parseDouble(partes[6]);
                 String puesto = partes[7];
 
                 Rut rut1 = new Rut(rut); // Se crea el objeto "rut1"
@@ -215,7 +215,7 @@ public class GestorDatos
                 Email email1 = new Email(email); // Se crea el objeto "email1"
 
                 // Se añaden los elementos creados para crear una nueva lista de objetos "Empleados Administrativos":
-                administrativos.add(new EmpleadoAdministrativo(nombre, rut1, direccion1, email1, sueldo, puesto));
+                administrativos.add(new EmpleadoAdministrativo(nombre, rut1, direccion1, email1, sueldoA, puesto));
             }
             catch (NumberFormatException e)
             {
