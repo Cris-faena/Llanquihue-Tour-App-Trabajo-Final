@@ -1,0 +1,3 @@
+Ismael Ramírez;27345123-1;La Odisea 632;Santiago;Región Matropolitana;ismaelramirez@hotmail.com;Paseo Lacustre
+Anelisse Ramírez;25765321-4;La Farfana 9067;Osorno;Región de Los Rios;anelitalapro@hotmail.com;Excursion al aire libre
+Mike Ehrmantraut Díaz;10836194-8;California 3498;Chillán Viejo;Región de Ñuble;mikeerman@gmail.com;Ruta Gastronómica

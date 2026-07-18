@@ -1,0 +1,5 @@
+Visita al Hotel AWA;Ven a comer al exclusivo Hotel AWA, hecho de piedra volcánica. Además, puedes relajarte en nuestro SPA;200000;alto;2
+Visita al Hotel Wyndham;Reconocido por su categoría internacional, ofrece estándares de servicio de excelencia;300000;premium;3
+Visita a Chuck E Cheese;Ven con tu familia a la histórica pizzería con animatrónicos,única en su clase;30000;bajo;1
+
+ 

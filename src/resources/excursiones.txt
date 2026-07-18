@@ -1,0 +1,4 @@
+ascenso al volcán Osorno;Ascenso a pie hasta la cumbre del mítico volcán Osorno;120000;media;8
+ascenso al volcán Calbuco;Ascenso en bicicleta hacia el majestuoso volcán Calbuco;200000;alta;5
+visita a la Reserva Nacional Llanquihue;Excursión a pie hasta la reserva Llanquihue, santuario de la naturaleza;130000;baja;6
+  

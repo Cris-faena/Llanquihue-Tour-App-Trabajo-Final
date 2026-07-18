@@ -1,0 +1,3 @@
+Vuelta al Lago de Todos los Santos;Vuelta en una embarcación de lujo por el místico Lago de Todos Los Santos;300000; Crucero Carrera;'Lago de Todos Los Santos'
+Vuelta al Lago Llanquihue;Vuelta en Kayak individual por el hermoso Lago Llanquihue;50000;Kayak numerado;'Lago Llanquihue'
+Vuelta al Lago Rupanco;Vuelta a toda velocidad en lancha por el famoso Lago Ranco;100000;Lancha intrépida;'Lago Ranco'
