@@ -25,4 +25,3 @@ public class ValidadorEmail
         return Limpio.length() <= 254 && Limpio.matches(REGEX_EMAIL);
     }
 }
-
