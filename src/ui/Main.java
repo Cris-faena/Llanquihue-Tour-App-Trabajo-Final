@@ -17,15 +17,15 @@ public class Main
     public static void main(String[] args)
     {
         // 1. Se utiliza el gestor de datos para leer los archivos.txt que contienen las distintas personas que trabajan en "Llanquihue Tours" y los almacena en una lista de Strings:
-        List<String> listaEmpleadoAdministrativo = GestorDatos.gestorDatos("resources/empleadoA.txt");
-        List<String> listaEmpleadoOperativos = GestorDatos.gestorDatos("resources/empleadoOP.txt");
-        List<String> listaDeProveedores = GestorDatos.gestorDatos("resources/proveedores.txt");
-        List<String> listaDeClientes = GestorDatos.gestorDatos("resources/clientes.txt");
+        List<String> listaEmpleadoAdministrativo = GestorDatos.gestorDatos("src/resources/empleadoA.txt");
+        List<String> listaEmpleadoOperativos = GestorDatos.gestorDatos("src/resources/empleadoOP.txt");
+        List<String> listaDeProveedores = GestorDatos.gestorDatos("src/resources/proveedores.txt");
+        List<String> listaDeClientes = GestorDatos.gestorDatos("src/resources/clientes.txt");
 
         // 2. Se utiliza el gestor de datos para leer los archivos.txt que contienen los distintos servicios turísticos y los almacena en una lista de strings:
-        List<String> listaExcursion = GestorDatos.gestorDatos("resources/excursiones.txt");
-        List<String> listaLacustre = GestorDatos.gestorDatos("resources/lacustres.txt");
-        List<String> listaGastronomica = GestorDatos.gestorDatos("resources/gastronomicas.txt");
+        List<String> listaExcursion = GestorDatos.gestorDatos("src/resources/excursiones.txt");
+        List<String> listaLacustre = GestorDatos.gestorDatos("src/resources/lacustres.txt");
+        List<String> listaGastronomica = GestorDatos.gestorDatos("src/resources/gastronomicas.txt");
         System.out.println();
 
         // 3. Se llama al método respectivo para crear una lista de objetos específica según requerimientos:
